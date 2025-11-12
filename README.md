@@ -81,9 +81,6 @@ LIMIT 5;
 ---
 
 ## 🖼️ Visual Insights
-🧮 Table Overview
-<p align="center"> <img src="Tables.jpg" alt="Data Model Tables" width="80%"> </p>
-
 📊 Power BI Dashboard
 
 The Power BI dashboard visualizes customer behavior and business KPIs such as:
